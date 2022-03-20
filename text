@@ -1,0 +1,23 @@
+<Container></Container>
+<CardGroup></CardGroup>
+<Row></Row>
+<Col></Col>
+                
+
+<Container>
+   <Row>
+    <CardGroup>
+    </CardGroup>
+   </Row> 
+</Container>
+
+<div className="d-grid gap-2"> 
+     
+</div>
+
+<Button variant="primary" size="lg">
+    Block level button
+  </Button>
+  <Button variant="secondary" size="lg">
+    Block level button
+  </Button>

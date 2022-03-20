@@ -1,0 +1,21 @@
+$color: #232931;
+$background-color: #EEEEEE;
+$secondary-color:white;
+
+:root {
+    --fontsize-card-title: 20px;
+    --fontweight-card-title: 600;
+    --fontsize-card-button: 15px;
+    --fontweight-card-button: 400;
+  }
+
+
+
+#movie-view {
+    background-color: $background-color;
+    text-align: center;
+    min-height: 50px;
+    margin-bottom: 50px;
+    box-shadow: 10px 5px 5px $color;
+  }
+

@@ -1,0 +1,38 @@
+#main-view {
+  margin-top: 100px;
+}
+#login-card {
+  background-color: #EEEEEE;
+  min-height: 50px;
+  margin-bottom: 50px;
+  box-shadow: 10px 5px 5px #232931;
+}
+:root {
+  --fontsize-card-title: 20px;
+  --fontweight-card-title: 600;
+  --fontsize-card-button: 15px;
+  --fontweight-card-button: 400;
+}
+
+#movie-card {
+  background-color: #EEEEEE;
+  text-align: center;
+  min-height: 50px;
+  margin-bottom: 50px;
+  box-shadow: 10px 5px 5px #232931;
+}
+:root {
+  --fontsize-card-title: 20px;
+  --fontweight-card-title: 600;
+  --fontsize-card-button: 15px;
+  --fontweight-card-button: 400;
+}
+
+#movie-view {
+  background-color: #EEEEEE;
+  text-align: center;
+  min-height: 50px;
+  margin-bottom: 50px;
+  box-shadow: 10px 5px 5px #232931;
+}
+/*# sourceMappingURL=index.caa67093.css.map */
